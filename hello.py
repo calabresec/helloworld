@@ -12,8 +12,6 @@ def shimmy():
         right_rot()
         time.sleep(2)
 
-while True:
-
 shimmy()
 twirl()
 stop()
